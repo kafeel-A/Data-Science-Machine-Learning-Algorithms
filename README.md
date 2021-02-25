@@ -1,2 +1,2 @@
 # Data-Science-Machine-Learning-Algorithms
-Machine Learning Algorithm
+  Complete Machine Learning Algorithm
